@@ -178,6 +178,6 @@ Potential improvements include:
 
 ## Author
 
-**Ruvarashe Nemaramba**
+**Ruvarashe S Nemaramba**
 
 Artificial Intelligence Student & Developer
